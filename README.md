@@ -39,3 +39,4 @@ TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
         3.1) Shows the successful payment page and user details for confirmation.
 
 ## ER DIAGRAM
+![ERDiagram](ERDiagram.png)
