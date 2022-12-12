@@ -37,6 +37,10 @@ TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
 
     3) Collects all the details of payment i.e card num, card holder, cvv, expiry date all uses Completepayment() mock function to complete payment.
         3.1) Shows the successful payment page and user details for confirmation.
+        3.2) The users card info is not stored in the database.
 
 ## ER DIAGRAM
 ![ERDiagram](ERDiagram.png)
+
+## SCREENSHOTS
+![Screenshit](screenshot.png)
