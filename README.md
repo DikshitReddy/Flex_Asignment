@@ -3,7 +3,7 @@
 ## https://yogaenrollform.netlify.app/
 
 ## SERVER
-TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
+TECH USED : MONGODB, EXPRESSJS, REACTJS, NODEJS (MERN).
 
 ## HOW TO RUN
   
