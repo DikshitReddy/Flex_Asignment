@@ -54,7 +54,7 @@ TECH USED : MONGODB, EXPRESSJS, REACTJS, NODEJS (MERN).
 ## SCOPE OF IMPROVEMENTS 
     1) Login Authentication using JWT.
     2) Copy of response to registered email.
-    3) Encrypting the payment details with various hasing algorithms.
+    3) Encrypting the payment details with various hashing algorithms.
     4) User session storage.
     5) Accepting cryptocurrencies for payments.
 
