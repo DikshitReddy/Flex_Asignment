@@ -40,7 +40,14 @@ TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
         3.2) The users card info is not stored in the database.
 
 ## ER DIAGRAM
+
 ![ERDiagram](ERDiagram.png)
 
+## MongoDB Schema
+
+![image](https://user-images.githubusercontent.com/60206728/207054600-7be75811-125f-4098-9401-aa86cc4c53c9.png)
+
 ## SCREENSHOTS
-![Screenshit](screenshot.png)
+
+![image](https://user-images.githubusercontent.com/60206728/207054828-14d27f00-ec9e-4d95-825f-31383f639726.png)
+
