@@ -51,3 +51,10 @@ TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
 
 ![image](https://user-images.githubusercontent.com/60206728/207054828-14d27f00-ec9e-4d95-825f-31383f639726.png)
 
+## SCOPE OF IMPROVEMENTS 
+    1) Login Authentication using JWT.
+    2) Copy of response to registered email.
+    3) Encrypting the payment details with various hasing algorithms.
+    4) User session storage.
+    5) Accepting cryptocurrencies for payments.
+
