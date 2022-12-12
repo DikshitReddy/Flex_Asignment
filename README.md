@@ -1,11 +1,11 @@
-# DEPLOYED LINK
+# HOSTED LINK
 
 ## https://yogaenrollform.netlify.app/
 
 ## SERVER
 TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
 
-# HOW TO RUN
+## HOW TO RUN
   
   1) clone the repo to vscode
   2) Open the terminal and split them
@@ -43,7 +43,7 @@ TECH USED : MONGODBH, EXPRESSJS, REACTJS, NODEJS (MERN).
 
 ![ERDiagram](ERDiagram.png)
 
-## MongoDB Schema
+## MONGODB SCHEMA
 
 ![image](https://user-images.githubusercontent.com/60206728/207054600-7be75811-125f-4098-9401-aa86cc4c53c9.png)
 
